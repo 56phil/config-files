@@ -24,6 +24,7 @@ Plugin 'glench/vim-jinja2-syntax'
 Plugin 'hail2u/vim-css3-syntax'			" CSS3 syntax support for Vim’s built-in syntax/css.vim
 Plugin 'jlanzarotta/bufexplorer'		" move from buffer to buffer
 Plugin 'majutsushi/tagbar'			" keeps you honest w/tags
+Plugin 'motemen/git-vim' 			" git interface
 Plugin 'shougo/neocomplete.vim' 		" completion assistant
 Plugin 'shougo/neosnippet-snippets' 		" snippet library
 Plugin 'shougo/neosnippet.vim'
